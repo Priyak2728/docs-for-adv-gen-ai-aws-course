@@ -1,0 +1,17 @@
+https://docs.aws.amazon.com/glue/latest/dg/glue-data-quality.html
+
+https://docs.aws.amazon.com/glue/latest/dg/detect-PII.html
+
+https://docs.aws.amazon.com/databrew/latest/dg/what-is.html
+
+https://docs.aws.amazon.com/lambda/latest/dg/welcome.html
+
+https://docs.aws.amazon.com/bedrock/latest/userguide/kb-custom-transformation.html
+
+https://docs.aws.amazon.com/sap/latest/general/macie.html
+
+https://docs.aws.amazon.com/comprehend/latest/dg/what-is.html
+
+https://aws.amazon.com/blogs/machine-learning/llm-as-a-judge-on-amazon-bedrock-model-evaluation/
+
+you can read and learn abt retrieve and retreive-and-generate api from the lab 1.
