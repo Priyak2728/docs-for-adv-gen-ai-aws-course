@@ -14,4 +14,22 @@ https://docs.aws.amazon.com/comprehend/latest/dg/what-is.html
 
 https://aws.amazon.com/blogs/machine-learning/llm-as-a-judge-on-amazon-bedrock-model-evaluation/
 
-you can read and learn abt retrieve and retreive-and-generate api from the lab 1.
+https://awslabs.github.io/mcp/
+
+https://docs.aws.amazon.com/bedrock/latest/userguide/flows-how-it-works.html
+
+https://docs.aws.amazon.com/bedrock/latest/userguide/agent-tutorial.html
+
+https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-caching.html
+
+https://skillbuilder.aws/learn/6XKW5KV9FS/aws-simulearn-secure-conversational-ai-with-guardrails/R6NFKDHSND
+
+https://docs.aws.amazon.com/bedrock/latest/userguide/guardrails-automated-reasoning-checks.html
+
+https://docs.aws.amazon.com/bedrock/latest/userguide/guardrails-contextual-grounding-check.html
+
+https://timesofindia.indiatimes.com/technology/tech-news/ai-gone-wild-chatgpt-caught-giving-step-by-step-guides-to-murder-self-mutilation-and-satanic-rituals/articleshow/122900339.cms
+
+https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-routing.html
+
+https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-routing.html#prompt-routing-works
