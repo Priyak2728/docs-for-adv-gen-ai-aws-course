@@ -33,3 +33,9 @@ https://timesofindia.indiatimes.com/technology/tech-news/ai-gone-wild-chatgpt-ca
 https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-routing.html
 
 https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-routing.html#prompt-routing-works
+
+https://skillbuilder.aws/learn/26BPZTDXB6/aws-simulearn-build-with-agentcore-memory-and-gateway/2WSXXCDY68
+
+https://skillbuilder.aws/learn/NDWAZRBXPR/aws-simulearn-getting-started-with-agentcore-runtime/FPZFF41DQ4
+
+https://github.com/awslabs/agentcore-samples/blob/main/06-workshops/01-AgentCore-runtime/01-hosting-agent/01-strands-with-bedrock-model/runtime_with_strands_and_bedrock_models.ipynb
