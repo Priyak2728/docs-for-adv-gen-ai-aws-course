@@ -39,3 +39,5 @@ https://skillbuilder.aws/learn/26BPZTDXB6/aws-simulearn-build-with-agentcore-mem
 https://skillbuilder.aws/learn/NDWAZRBXPR/aws-simulearn-getting-started-with-agentcore-runtime/FPZFF41DQ4
 
 https://github.com/awslabs/agentcore-samples/blob/main/06-workshops/01-AgentCore-runtime/01-hosting-agent/01-strands-with-bedrock-model/runtime_with_strands_and_bedrock_models.ipynb
+
+https://skillbuilder.aws/learn/6XKW5KV9FS/aws-simulearn-secure-conversational-ai-with-guardrails/R6NFKDHSND
